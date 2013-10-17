@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Chris Woodford"]
   s.email       = ["chris.woodford@gmail.com"]
   s.homepage    = "http://rubygems.org/gems/tarsus-rails"
-  s.summary     = "Use tarsus.js with Rails"
-  s.description = "This gem provides tarsus.js for your Rails application."
+  s.summary     = "Use tarsus.js with Rails. Lace up Backbone with Bootstrap."
+  s.description = "Lace up Backbone.js with Bootstrap.js"
   s.license     = "MIT"
 
   s.files       = `git ls-files`.split("\n")
