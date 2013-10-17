@@ -18,4 +18,6 @@ Gem::Specification.new do |s|
   s.add_dependency "backbone-on-rails", ">= 0.9", "< 1.0"
   s.add_dependency "bootstrap-sass",     ">= 2.1", "< 3.0"
 
+  s.add_development_dependency 'sqlite3'
+
 end
